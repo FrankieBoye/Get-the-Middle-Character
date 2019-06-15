@@ -1,10 +1,11 @@
   def middle(s)
-    while s.length > 1
+
+    while s.length > 2
       s.chop!
       s.reverse!.chop!
-      s.chop!
+      s.reverse!
   end
 
   return s
 
-end
+  end
