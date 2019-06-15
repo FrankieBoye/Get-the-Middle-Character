@@ -15,3 +15,5 @@ get_middle("testing") # => "t"<br>
 get_middle("middle") # => "dd"<br>
 get_middle("A") # => "A"<br>
 get_middle("of") # => "of"
+
+![image](https://user-images.githubusercontent.com/44870179/59556689-b1241180-8fbe-11e9-9fed-8b3109ca3707.png)
