@@ -1,0 +1,3 @@
+  def middle(s)
+
+  end
