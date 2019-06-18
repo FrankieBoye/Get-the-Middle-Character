@@ -7,16 +7,18 @@
         1,
         1,
         1,
+        1,
         null,
         null,
         1,
         1,
+        null,
         null,
         null
       ],
       "/Users/student/projects/Get-the-Middle-Character/lib/middle.rb": [
         1,
-        null,
+        1,
         2,
         4,
         4,
@@ -28,6 +30,6 @@
         null
       ]
     },
-    "timestamp": 1560667579
+    "timestamp": 1560849238
   }
 }
