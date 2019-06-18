@@ -4,7 +4,7 @@ class Middle
       s.chop!
       s.reverse!.chop!
       s.reverse!
-  end
+    end
 
     s
   end

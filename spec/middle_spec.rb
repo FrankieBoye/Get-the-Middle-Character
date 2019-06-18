@@ -6,7 +6,7 @@ describe Middle do
       expect(subject.middle('testing')).to eq 't'
     end
 
-    it 'returns the middle 2 characters when passed an even number of letters' do
+    it 'returns the middle 2 chars when passed an even number of letters' do
       expect(subject.middle('test')).to eq 'es'
     end
   end
